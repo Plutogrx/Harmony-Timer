@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DirectionalLayout
+    xmlns:ohos="http://schemas.huawei.com/res/ohos"
+    ohos:height="match_parent"
+    ohos:width="match_parent"
+    ohos:alignment="center"
+    ohos:orientation="vertical">
+
+    <Text
+        ohos:id="$+id:txt_countdown"
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:layout_alignment="center"
+        ohos:text="10"
+        ohos:text_alignment="center"
+        ohos:text_size="35fp"/>
+
+    <DirectionalLayout
+        ohos:height="match_content"
+        ohos:width="match_parent"
+        ohos:orientation="horizontal"
+        ohos:layout_alignment="center"
+        ohos:alignment="center"
+        ohos:top_margin="20vp">
+
+        <Button
+            ohos:id="$+id:btn_countdown"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:text="开始倒计时"
+            ohos:text_size="25fp"/>
+        <Button
+            ohos:id="$+id:btn_redPocket"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:text="抢红包"
+            ohos:text_size="25fp"
+            ohos:left_margin="40vp"/>
+        <Button
+            ohos:id="$+id:btn_flush"
+            ohos:height="match_content"
+            ohos:width="match_content"
+            ohos:text="刷新"
+            ohos:text_size="25fp"
+            ohos:left_margin="40vp"/>
+
+    </DirectionalLayout>
+
+</DirectionalLayout>

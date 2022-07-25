@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "entry_Red_Packet",
+      "value": "entry_Red_Packet"
+    },
+    {
+      "name": "red_packet_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "red_packet_HelloWorld",
+      "value": "Hello World"
+    }
+  ]
+}
